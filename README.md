@@ -10,7 +10,7 @@ The system helps to track job offers, monitor application progress, and extract 
 This project focuses on building a real-world backend system.
 Key goals:
 
-- design clean, scalable architecture,
+- design - clean, scalable architecture,
 - enforce strict separation of concerns,
 - implement clean business logic,
 - build testable and maintainable code,
